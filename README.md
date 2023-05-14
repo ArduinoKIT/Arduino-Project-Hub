@@ -12,9 +12,31 @@
 - [Led Matrix 8x8 MAX7219](https://arduinokit.vn/huong-dan-su-dung-module-led-ma-tran-8x8-max7219-voi-arduino/)
 - [7 Segment LED Display](https://arduinokit.vn/huong-dan-lam-dong-ho-bam-gio-bang-led-7-doan-4-so-va-arduino/) (Example 1)
 - [7 Segment LED Display](https://arduinokit.vn/led-7-doan-la-gi-cach-hien-thi-led-7-doan-bang-arduino/) (Example 2)
+- [LCD 16x2](https://arduinokit.vn/giao-tiep-i2c-lcd-arduino/) (Example 1)
+- [LCD 16x2](https://arduinokit.vn/dht11-giao-tiep-i2c-su-dung-arduino/) (Example 2)
+- [LCD 16x2](https://arduinokit.vn/hien-thi-thoi-gian-thuc-ds1307-len-lcd16x2-su-dung-arduino/) (Example 3)
+- [LCD 16x2](https://arduinokit.vn/cam-bien-do-am-he-thong-tuoi-tu-dong-su-dung-arduino/) (Example 4)
 
 ## Arduino tutorials
 - [SPI](https://arduinokit.vn/chuan-giao-tiep-spi-la-gi/)
+
+## Arduino Lessons
+- [Lessons 1](https://arduinokit.vn/chop-tat-led-tren-arduino-uno/)
+- [Lessons 2](https://arduinokit.vn/chop-tat-led-tren-arduino-uno-phan-2/)
+- [Lessons 3](https://arduinokit.vn/mo-hinh-den-giao-thong-don-gian/)
+- [Lessons 4](https://arduinokit.vn/pwm-thay-doi-anh-sang-cua-led-tren-arduino/)
+- [Lessons 5](https://arduinokit.vn/thay-doi-mau-sac-led-rgb-su-dung-arduino/)
+- [Lessons 6](https://arduinokit.vn/tao-am-thanh-bang-arduino/)
+- [Lessons 7](https://arduinokit.vn/canh-bao-nhiet-do-lm35-bang-coi-bao-su-dung-arduino/)
+- [Lessons 8](https://arduinokit.vn/cam-bien-rung-ngat-arduino/)
+- [Lessons 9](https://arduinokit.vn/cam-bien-anh-sang-quang-tro-arduino/)
+- [Lessons 10](https://arduinokit.vn/dieu-khien-dong-co-rc-servo-su-dung-arduino/)
+- [Lessons 11](https://arduinokit.vn/dieu-khien-servo-bang-bien-tro-su-dung-arduino/)
+- [Lessons 12](https://arduinokit.vn/thay-doi-mau-sac-led-rgb-bang-bien-tro-su-dung-arduino/)
+- [Lessons 13](https://arduinokit.vn/dieu-khien-motor-quat-bang-nut-nhan-su-dung-arduino/)
+- [Lessons 14](https://arduinokit.vn/dieu-khien-led-bang-ir-remote-su-dung-arduino/)
+- [Lessons 15](https://arduinokit.vn/led-7-doan-su-dung-arduino-uno-r3/)
+- [Lessons 16](https://arduinokit.vn/dieu-khien-led-7-doan-bang-ir-remote-su-dung-arduino/)
 
 # DIY Project
 - [Arm Robot](https://arduinokit.vn/huong-dan-lam-canh-tay-robot-4-bac-su-dung-arduino-code/)
