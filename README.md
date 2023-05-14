@@ -85,3 +85,9 @@
 # PCB (2)
 - [What is PCB?](https://arduinokit.vn/pcb-la-gi-huong-dan-lam-mach-in-tiet-kiem-cho-sinh-vien/)
 - [Making machine PCB](https://arduinokit.vn/huong-dan-may-lam-mach-in-pcb-mini-chi-phi-cuc-thap/)
+
+=============================
+# Platform
+- [Instructables](https://www.instructables.com/member/Arduino%20KIT/instructables/)
+- [HACKADAY.IO](https://hackaday.io/projects/hacker/535034)
+- [HACKSTER.IO](https://www.hackster.io/arduino-kit)
