@@ -3,12 +3,19 @@
 
 # Arduino Project
 
-## Sensor
+## Sensor (10)
 - [Rain Water Sensor](https://arduinokit.vn/su-dung-cam-bien-nuoc-mua-rain-water-sensor-voi-arduino/)
 - [Soil Moisture Sensor](https://arduinokit.vn/su-dung-cam-bien-do-am-dat-soil-moisture-sensor-voi-arduino/)
 - [MQ-135 Sensor](https://arduinokit.vn/may-do-nong-do-con-bang-cam-bien-mq-135-su-dung-arduino/)
+- [HC-SRF04 Sensor](https://arduinokit.vn/do-khoang-cach-bang-cam-bien-sieu-am-hc-srf04/)
+- [PIR HC-SR501 Sensor](https://arduinokit.vn/bao-dong-chong-trom-bang-cam-bien-pir-hc-sr501/)
+- [LM35](https://arduinokit.vn/cam-bien-nhiet-do-lm35/)
+- [Light Sensor](https://arduinokit.vn/cam-bien-anh-sang-su-dung-arduino/)
+- [What is Servo?](https://arduinokit.vn/dong-co-servo-la-gi/)
+- [DHT11 Sensor](https://arduinokit.vn/doc-cam-bien-nhiet-do-do-am-dht11-arduino/)
+- [DS1307](https://arduinokit.vn/dong-ho-thoi-gian-thuc-ds1307-arduino/)
 
-## Display
+## Display (7)
 - [Led Matrix 8x8 MAX7219](https://arduinokit.vn/huong-dan-su-dung-module-led-ma-tran-8x8-max7219-voi-arduino/)
 - [7 Segment LED Display](https://arduinokit.vn/huong-dan-lam-dong-ho-bam-gio-bang-led-7-doan-4-so-va-arduino/) (Example 1)
 - [7 Segment LED Display](https://arduinokit.vn/led-7-doan-la-gi-cach-hien-thi-led-7-doan-bang-arduino/) (Example 2)
@@ -17,10 +24,10 @@
 - [LCD 16x2](https://arduinokit.vn/hien-thi-thoi-gian-thuc-ds1307-len-lcd16x2-su-dung-arduino/) (Example 3)
 - [LCD 16x2](https://arduinokit.vn/cam-bien-do-am-he-thong-tuoi-tu-dong-su-dung-arduino/) (Example 4)
 
-## Arduino tutorials
+## Arduino tutorials (1)
 - [SPI](https://arduinokit.vn/chuan-giao-tiep-spi-la-gi/)
 
-## Arduino Lessons
+## Arduino Lessons (16)
 - [Lessons 1](https://arduinokit.vn/chop-tat-led-tren-arduino-uno/)
 - [Lessons 2](https://arduinokit.vn/chop-tat-led-tren-arduino-uno-phan-2/)
 - [Lessons 3](https://arduinokit.vn/mo-hinh-den-giao-thong-don-gian/)
@@ -38,13 +45,20 @@
 - [Lessons 15](https://arduinokit.vn/led-7-doan-su-dung-arduino-uno-r3/)
 - [Lessons 16](https://arduinokit.vn/dieu-khien-led-7-doan-bang-ir-remote-su-dung-arduino/)
 
-# DIY Project
+# DIY Project (11)
 - [Arm Robot](https://arduinokit.vn/huong-dan-lam-canh-tay-robot-4-bac-su-dung-arduino-code/)
 - [Line Follower Robot](https://arduinokit.vn/huong-dan-che-tao-robot-do-line-arduino-tranh-vat-can-hc-sr04/)
 - [Home Automation ESP32 & Blynk](https://arduinokit.vn/thiet-ke-nha-thong-minh-bang-arduino-su-dung-esp32-va-blynk-2-0/)
 - [IoT Water Level Control & Monitor (ESP8266 & Blynk)](https://arduinokit.vn/giam-sat-va-kiem-soat-muc-nuoc-bang-iot-su-dung-esp8266-va-blynk-2-0/)
+- [Obstacle Avoiding Robot Car](https://arduinokit.vn/che-tao-robot-tranh-vat-can/)
+- [IR Infrared Obstacle Avoidance Sensor](https://arduinokit.vn/dem-so-nguoi-ra-vao-phong-va-bat-tat-thiet-bi-su-dung-arduino/)
+- [RFID RC-522](https://arduinokit.vn/he-thong-khoa-cua-thong-minh-su-dung-rfid-rc-522-va-arduino/)
+- [Home Automation ESP8266 & App Mobile](https://arduinokit.vn/nha-thong-minh-su-dung-blynk-va-nodemcu-esp8266/)
+- [Sound sensor](https://arduinokit.vn/bat-tat-den-bang-tieng-vo-tay-su-dung-arduino/)
+- [Laser Sensor](https://arduinokit.vn/mach-dem-so-nguoi-su-dung-arduino-va-lazer/)
+- [Relay](https://arduinokit.vn/dieu-khien-den-220v-bang-realy-su-dung-arduino/)
 
-# ESP8266 & IOT
+# ESP8266 & IOT (22)
 - [What is ESP8266?](https://arduinokit.vn/esp8266-la-gi-huong-dan-lap-trinh-esp8266-bang-arduino-ide/)
 - [What is Blynk?](https://arduinokit.vn/blynk-la-gi-huong-dan-cai-dat-va-su-dung-blynk-2-0/)
 - [Home Automation ESP8266 & App Mobile](https://arduinokit.vn/he-thong-dieu-khien-thiet-bi-thong-minh-thong-qua-nodemcu-esp8266-va-app-mobile/)
@@ -68,6 +82,6 @@
 - [Cayenne Mydevices](https://arduinokit.vn/dieu-khien-thiet-bi-thong-qua-cayenne-mydevices-va-nodemcu-esp8266/)
 - [Thingspeak](https://arduinokit.vn/giam-sat-nhiet-do-do-am-dht11-thong-qua-thingspeak-bang-nodemcu-esp8266/)
 
-# PCB
+# PCB (2)
 - [What is PCB?](https://arduinokit.vn/pcb-la-gi-huong-dan-lam-mach-in-tiet-kiem-cho-sinh-vien/)
 - [Making machine PCB](https://arduinokit.vn/huong-dan-may-lam-mach-in-pcb-mini-chi-phi-cuc-thap/)
